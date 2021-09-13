@@ -44,25 +44,4 @@ class TodoApp extends Component {
     }
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-// // tell user credentials are invalid
-// function ShowInvalidCredentials(props) {
-//     if(props.hasLoginFailed) {
-//         return <div>Invalid Login</div>
-//     }
-//     return null
-// }
-
-
 export default TodoApp;
